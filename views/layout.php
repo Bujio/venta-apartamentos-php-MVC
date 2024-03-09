@@ -19,6 +19,7 @@ if (!isset($inicio)) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bienes Raices</title>
+  <link rel="icon" href="/build/img/icons8-bienes-raíces-64.png" type="image/x-icon">
   <link rel="stylesheet" href="../build/css/app.css">
 </head>
 
