@@ -8,7 +8,7 @@ This PHP project utilizes the MVC approach for software architecture. It provide
 
 The project is based on another repository located at [venta-de-apartamentos-php](https://github.com/Bujio/venta-de-apartamentos-php/).
 
-The resulting web application can be visited at [https://sutgowu.nyc.dom.my.id/admin](https://sutgowu.nyc.dom.my.id/admin).
+The resulting web application can be visited at [https://sutgowu.nyc.dom.my.id/admin](https://sutgowu.nyc.dom.my.id/).
 
 ### Usage Instructions
 
