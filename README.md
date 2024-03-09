@@ -2,6 +2,21 @@
 
 This repository contains a PHP project developed using the Model-View-Controller (MVC) pattern. The project focuses on apartment sales and is designed to be a scalable and maintainable web application.
 
+### Description
+
+This PHP project utilizes the MVC approach for software architecture. It provides an organized structure that separates business logic (Model), presentation (View), and flow control (Controller).
+
+The project is based on another repository located at [venta-de-apartamentos-php](https://github.com/Bujio/venta-de-apartamentos-php/).
+
+The resulting web application can be visited at [https://sutgowu.nyc.dom.my.id/admin](https://sutgowu.nyc.dom.my.id/admin).
+
+### Usage Instructions
+
+1. Clone this repository to your local environment.
+2. Install dependencies using Composer and npm.
+3. Configure your environment using the `.env` file.
+4. Run the application on your local server.
+
 ### Development Dependencies
 
 - **Autoprefixer**: Version ^10.4.17
@@ -30,20 +45,5 @@ This repository contains a PHP project developed using the Model-View-Controller
 - **Symfony/process**: Version ^6.0|^5.4|^7.0
 - **Intervention/image**: Version ^2.5
 - **Phpmailer/phpmailer**: Version ^6.3
-
-### Description
-
-This PHP project utilizes the MVC approach for software architecture. It provides an organized structure that separates business logic (Model), presentation (View), and flow control (Controller).
-
-The project is based on another repository located at [venta-de-apartamentos-php](https://github.com/Bujio/venta-de-apartamentos-php/).
-
-The resulting web application can be visited at [https://sutgowu.nyc.dom.my.id/admin](https://sutgowu.nyc.dom.my.id/admin).
-
-### Usage Instructions
-
-1. Clone this repository to your local environment.
-2. Install dependencies using Composer and npm.
-3. Configure your environment using the `.env` file.
-4. Run the application on your local server.
 
 Enjoy exploring the project! If you have any questions or suggestions, feel free to get in touch.
