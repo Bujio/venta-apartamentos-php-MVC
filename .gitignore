@@ -1,0 +1,18 @@
+# Node
+npm-debug.log
+node_modules/
+
+# Packages
+vendor/
+
+#variables
+.env
+
+# ignora todos los archivos con extesion .log
+*.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
