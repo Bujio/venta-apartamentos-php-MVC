@@ -32,7 +32,7 @@
             </li>
         </ul>
 
-        <?php echo $propiedad->descripcion; ?>
+       <p> <?php echo $propiedad->descripcion; ?> </p>
     </div>
     <a href="/propiedades" class="boton-verde uppercase">Ver otras propiedades</a>
 </main>
